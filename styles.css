@@ -1,0 +1,16 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  padding: 0;
+  margin: 10% auto;
+  background: #333;
+  color: #fff;
+}
+
+.card {
+  background-color: #5E6FC4;
+}
+
+.form-control {
+  line-height: 2;
+}
